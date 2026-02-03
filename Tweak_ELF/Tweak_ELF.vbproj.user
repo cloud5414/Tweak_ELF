@@ -1,0 +1,7 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DeployDeviceID>769B66EC-6E05-4cd6-91AD-EF8067CFF495</DeployDeviceID>
+    <EnableSigning>false</EnableSigning>
+    <NETCFDeploy>true</NETCFDeploy>
+  </PropertyGroup>
+</Project>

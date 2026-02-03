@@ -1,0 +1,68 @@
+Tweak ELF simple description 
+
+Å° What is this software? 
+S01SH change the registry tool 
+
+Å° What can? 
+The screen is set and can not 
+
+Å° WZERO3 or the purpose? 
+I can set some 
+
+Å° I have what you need? 
+Microsoft. NET Compact Framework 2.0 required 
+
+Å° Other 
+Origin of name software? It's not like fairies 
+
+Å° What's New 
+2008/05/02 
+1.6.1 alpha 
+Akira Osamu local language 
+Add HID related 
+Add items from around the Sound 
+"Blue LED does not light up the" resurrection. 
+No changes to settings so dangerous. 
+Add the TCP-related items 
+
+2007/08/17 
+1.4.8 
+Add a set of Bluetooth-related items 
+
+1.3.5 
+GUI to "Recent Programs" button to clear the list of additional 
+
+1.3.4 
+Messages at startup "Index Out Of RangeException to" are not modified to 
+Font cache size "16MB" added 
+Add the value to set the disk cache size 
+
+2007/08/16 
+1.3.3 
+USB Fixed a bug that does not reflect changes in the mode 
+
+1.3.2 
+Added a set of USB-related 
+
+1.2.14 
+To improve the configuration GUI. More less 
+Font cache "8 MB" added 
+Adding type setting of clear 
+RealVGA simple OFF / ON to make 
+Add animation-related settings 
+
+2007/08/15 
+1.1.8 
+Implement the requirements of the relevant font cache. 
+Related to implementation of the storage cache. 
+SH organize items of camera settings 
+Remote "BitmapCacheSize" not written to fix the 
+I made CAB installer 
+
+1.1.3 
+Misc settings "to ON power slide". 
+"Blue LED does not light up," I seem to not remove items from the work. 
+
+2007/08/14 
+1.0 
+From the first edition was published.

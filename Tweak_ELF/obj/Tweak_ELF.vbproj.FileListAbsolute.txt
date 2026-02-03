@@ -1,0 +1,11 @@
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\bin\Release\Tweak_ELF.exe
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\bin\Release\Tweak_ELF.pdb
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\bin\Release\Tweak_ELF.xml
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\obj\Release\Tweak_ELF.FrmAbout.resources
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\obj\Release\Tweak_ELF.FrmMain.resources
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\obj\Release\Tweak_ELF.Resources.resources
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\obj\Release\Tweak_ELF.vbproj.GenerateResource.Cache
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\obj\Release\Tweak_ELF.exe
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\obj\Release\Tweak_ELF.xml
+C:\Documents and Settings\sh_nakagawa\My Documents\Visual Studio 2005\Projects\Tweak_ELF\Tweak_ELF\obj\Release\Tweak_ELF.pdb
